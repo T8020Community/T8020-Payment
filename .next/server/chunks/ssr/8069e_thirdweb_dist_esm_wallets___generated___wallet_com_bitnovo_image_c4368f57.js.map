@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"file":"image.js","sourceRoot":"","sources":["../../../../../../src/wallets/__generated__/wallet/com.bitnovo/image.ts"],"names":[],"mappings":"AAAA,2EAA2E;AAC3E,oCAAoC;;;;AAEpC,MAAM,KAAK,GACT,y9FAAy9F,CAAC;uCAE78F,KAAK,CAAC","debugId":null}}]
+}

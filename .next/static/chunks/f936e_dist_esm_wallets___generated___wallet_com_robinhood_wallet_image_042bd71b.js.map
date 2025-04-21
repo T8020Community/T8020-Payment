@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"file":"image.js","sourceRoot":"","sources":["../../../../../../src/wallets/__generated__/wallet/com.robinhood.wallet/image.ts"],"names":[],"mappings":"AAAA,2EAA2E;AAC3E,oCAAoC;;;;AAEpC,MAAM,KAAK,GACT,q0CAAq0C,CAAC;uCAEzzC,KAAK,CAAC","debugId":null}}]
+}
