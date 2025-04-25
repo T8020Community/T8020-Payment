@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"file":"image.js","sourceRoot":"","sources":["../../../../../../src/wallets/__generated__/wallet/io.atomicwallet/image.ts"],"names":[],"mappings":"AAAA,2EAA2E;AAC3E,oCAAoC;;;;AAEpC,MAAM,KAAK,GACT,y/HAAy/H,CAAC;uCAE7+H,KAAK,CAAC","debugId":null}}]
-}
